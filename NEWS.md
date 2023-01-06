@@ -1,3 +1,9 @@
+insectDisease 1.2.2
+==============
+
+changed `getNCBI` function to have more internal error handling. Now two `try` statements are used with catches to stop if the web resource is unavailable. Definitely better than the previous error. 
+
+
 insectDisease 1.2.1
 ==============
 

@@ -1,10 +1,10 @@
-85fd4329e42ab3bf5008e6016fcdc32c *DESCRIPTION
+cdebb1838c51a5d6b8d93e2f6d000c3a *DESCRIPTION
 6eb4310c1fd778d86dfe596e045a7451 *NAMESPACE
-98b347302a93f9ec9431e9fd0d75d16e *NEWS.md
+7f7ecbbcaca4f32a14f0c41043bb7af9 *NEWS.md
 f436a4475898eb853554fe663097eff8 *R/InsectDisease-package.R
 a621fc7ad8fe11d41ba921f7a0fe9f2a *R/assocref.R
 89269ac6450713a9e7057646f0bcc286 *R/citation.R
-8e209e5f4651bf33c59ff57671b6aa0e *R/getNCBI.R
+020ea358d16efc95b08d8989e0b0aff4 *R/getNCBI.R
 aacf755121d2d7e75aa681f5f9a2030d *R/hostTaxonomy.R
 7991c0757e2f5cbfb78a033c3bf5dac3 *R/hosts.R
 e636225aa7bfb82f414d6caa8d962c3c *R/negative.R
@@ -16,7 +16,7 @@ ae28f200b592bc49f1bde5fa60990334 *R/nematode.R
 d629988e4098c6c699dba941badfc039 *R/viraref.R
 dd0f82b8f1ef7198091c3f6de5654661 *R/viruses.R
 ea9c19b1af9b376c5b97d0ac6ab48ad1 *R/zzz.R
-299b1d33467f10634d3cb5eb8a1cd83c *build/vignette.rds
+c38c8fd1c053f0d30db9868e5dcd33e9 *build/vignette.rds
 93bba840492cde8d62dea28c6e6eb152 *data/assocref.rda
 ba09bd53010b70bc0b866039967b317c *data/citation.rda
 ad27cfe8204e617a1f91ef9f79246640 *data/hostTaxonomy.rda
@@ -38,7 +38,7 @@ a69deb4ad9ead4a3f2a915d658dfb534 *data/viruses.rda
 a31017f8dd0bed40baac4905873c602e *man/InsectDisease.Rd
 f7ae7d9047193eaa45f971a10df8773b *man/assocref.Rd
 7191bb0932dba8813a6e77361e3cd18f *man/citation.Rd
-d19435bb4bb3fb520f2e556ef0a7bc06 *man/getNCBI.Rd
+2cad5d0897a8a8905dac5a06e9e2f20c *man/getNCBI.Rd
 0f0d5e18f192a9ab861c214e09f52ce9 *man/hostTaxonomy.Rd
 8ea9c2568074c7758fc675818a2f4639 *man/hosts.Rd
 66b005e5b6c75082289605eda7f0b027 *man/negative.Rd
@@ -57,4 +57,4 @@ a8409fa05d76dcd0ba8af249d52077dc *man/viruses.Rd
 b4c830e219e125e1780ee5653be09b16 *tests/testthat/test-nvpassoc.R
 c3e8639e7553c9c3cdb9dfc75fc4dd93 *tests/testthat/test-viruses.R
 376fe97d9d95158d20278cd2ea583311 *vignettes/dataManip.Rmd
-2b84da1bea494ecacece039b05e52965 *vignettes/dataManip.html
+54b78ec6d38f769145d7a999fa1f2a75 *vignettes/dataManip.html
